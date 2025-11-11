@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "title": "Example Project",
+      "screenshot": "/placeholder-screenshot.png",
+      "github": "https://github.com/example",
+      "live": "https://example.com",
+      "issue": "https://github.com/example/issues/new?template=feedback.md",
+      "description": "This is an example project. Replace this with actual student projects."
+    }
+  ]
+}
+

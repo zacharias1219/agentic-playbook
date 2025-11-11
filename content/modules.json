@@ -1,0 +1,77 @@
+{
+  "modules": [
+    {
+      "slug": "intro",
+      "title": "Introduction to Agentic AI",
+      "description": "Learn the basics of Agentic AI and how it differs from traditional AI systems",
+      "icon": "🤖"
+    },
+    {
+      "slug": "agents",
+      "title": "What are AI Agents?",
+      "description": "Understanding what AI agents are and how they work",
+      "icon": "🤖"
+    },
+    {
+      "slug": "thinking",
+      "title": "How agents think",
+      "description": "Understanding reasoning, memory, and decision-making in AI agents",
+      "icon": "🧠"
+    },
+    {
+      "slug": "crewai",
+      "title": "Building with CrewAI",
+      "description": "Hands-on guide to building multi-agent systems with code examples",
+      "icon": "🧰"
+    },
+    {
+      "slug": "tools",
+      "title": "Tools & Function calling",
+      "description": "Connect agents to APIs, browsers, databases, and external tools",
+      "icon": "🔗"
+    },
+    {
+      "slug": "deployment",
+      "title": "Deployment",
+      "description": "Learn how to host and deploy your AI agents on various platforms",
+      "icon": "🚀"
+    },
+    {
+      "slug": "ethics",
+      "title": "Safety & Ethics",
+      "description": "Responsible AI development, safety considerations, and ethical practices",
+      "icon": "⚖️"
+    },
+    {
+      "slug": "careers",
+      "title": "Careers",
+      "description": "Explore career paths, roles, and roadmap in Agentic AI",
+      "icon": "💼"
+    },
+    {
+      "slug": "advanced-crewai",
+      "title": "Advanced CrewAI",
+      "description": "Complex multi-agent patterns, hierarchical crews, and advanced workflows",
+      "icon": "🏗️"
+    },
+    {
+      "slug": "memory",
+      "title": "Memory & State Management",
+      "description": "Implementing persistent memory and state management in agents",
+      "icon": "🧠"
+    },
+    {
+      "slug": "testing",
+      "title": "Testing & Debugging",
+      "description": "How to test agents, debug issues, and ensure reliability",
+      "icon": "🧪"
+    },
+    {
+      "slug": "security",
+      "title": "Security Best Practices",
+      "description": "Secure your agents: API key management, input validation, and security",
+      "icon": "🔒"
+    }
+  ]
+}
+
